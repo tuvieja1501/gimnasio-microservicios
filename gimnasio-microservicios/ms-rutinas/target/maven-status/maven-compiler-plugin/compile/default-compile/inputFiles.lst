@@ -1,0 +1,15 @@
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\controller\RutinaController.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\RutinasApplication.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\dto\RutinaDTO.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\dto\SocioRespuesta.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\exception\GlobalExceptionHandler.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\exception\RecursoNoEncontradoException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\repository\RutinaRepository.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\exception\ReglaNegocioException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\client\InstructorClient.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\client\SocioClient.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\dto\EjercicioDTO.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\dto\InstructorRespuesta.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\service\RutinaService.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\model\Rutina.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-rutinas\src\main\java\com\gimnasio\rutinas\model\Ejercicio.java

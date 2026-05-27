@@ -1,0 +1,17 @@
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\dto\PlanMembresiaDTO.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\model\EstadoMembresia.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\service\PlanMembresiaService.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\dto\SocioRespuesta.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\exception\ReglaNegocioException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\model\Membresia.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\repository\PlanMembresiaRepository.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\exception\RecursoNoEncontradoException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\service\MembresiaService.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\client\SocioClient.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\exception\GlobalExceptionHandler.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\controller\PlanMembresiaController.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\controller\MembresiaController.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\model\PlanMembresia.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\dto\MembresiaDTO.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\MembresiasApplication.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-membresias\src\main\java\com\gimnasio\membresias\repository\MembresiaRepository.java

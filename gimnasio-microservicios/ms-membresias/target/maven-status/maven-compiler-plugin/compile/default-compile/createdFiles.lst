@@ -1,0 +1,17 @@
+com\gimnasio\membresias\dto\SocioRespuesta.class
+com\gimnasio\membresias\exception\RecursoNoEncontradoException.class
+com\gimnasio\membresias\client\SocioClient.class
+com\gimnasio\membresias\dto\PlanMembresiaDTO.class
+com\gimnasio\membresias\model\Membresia.class
+com\gimnasio\membresias\controller\PlanMembresiaController.class
+com\gimnasio\membresias\service\MembresiaService.class
+com\gimnasio\membresias\exception\GlobalExceptionHandler.class
+com\gimnasio\membresias\model\PlanMembresia.class
+com\gimnasio\membresias\controller\MembresiaController.class
+com\gimnasio\membresias\exception\ReglaNegocioException.class
+com\gimnasio\membresias\repository\MembresiaRepository.class
+com\gimnasio\membresias\dto\MembresiaDTO.class
+com\gimnasio\membresias\MembresiasApplication.class
+com\gimnasio\membresias\model\EstadoMembresia.class
+com\gimnasio\membresias\repository\PlanMembresiaRepository.class
+com\gimnasio\membresias\service\PlanMembresiaService.class

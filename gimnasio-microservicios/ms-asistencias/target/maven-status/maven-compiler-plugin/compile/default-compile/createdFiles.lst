@@ -1,0 +1,13 @@
+com\gimnasio\asistencias\controller\AsistenciaController.class
+com\gimnasio\asistencias\model\Asistencia.class
+com\gimnasio\asistencias\client\SocioClient.class
+com\gimnasio\asistencias\repository\AsistenciaRepository.class
+com\gimnasio\asistencias\dto\SocioRespuesta.class
+com\gimnasio\asistencias\client\SucursalClient.class
+com\gimnasio\asistencias\exception\RecursoNoEncontradoException.class
+com\gimnasio\asistencias\exception\ReglaNegocioException.class
+com\gimnasio\asistencias\dto\SucursalRespuesta.class
+com\gimnasio\asistencias\exception\GlobalExceptionHandler.class
+com\gimnasio\asistencias\dto\AsistenciaDTO.class
+com\gimnasio\asistencias\service\AsistenciaService.class
+com\gimnasio\asistencias\AsistenciasApplication.class

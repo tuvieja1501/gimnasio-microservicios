@@ -1,0 +1,10 @@
+com\gimnasio\socios\service\SocioService.class
+com\gimnasio\socios\model\EstadoSocio.class
+com\gimnasio\socios\model\Socio.class
+com\gimnasio\socios\SociosApplication.class
+com\gimnasio\socios\exception\GlobalExceptionHandler.class
+com\gimnasio\socios\dto\SocioDTO.class
+com\gimnasio\socios\exception\RecursoNoEncontradoException.class
+com\gimnasio\socios\controller\SocioController.class
+com\gimnasio\socios\repository\SocioRepository.class
+com\gimnasio\socios\exception\ReglaNegocioException.class

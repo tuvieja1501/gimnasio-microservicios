@@ -1,0 +1,15 @@
+com\gimnasio\rutinas\dto\EjercicioDTO.class
+com\gimnasio\rutinas\client\InstructorClient.class
+com\gimnasio\rutinas\controller\RutinaController.class
+com\gimnasio\rutinas\repository\RutinaRepository.class
+com\gimnasio\rutinas\client\SocioClient.class
+com\gimnasio\rutinas\RutinasApplication.class
+com\gimnasio\rutinas\dto\SocioRespuesta.class
+com\gimnasio\rutinas\dto\InstructorRespuesta.class
+com\gimnasio\rutinas\exception\RecursoNoEncontradoException.class
+com\gimnasio\rutinas\exception\ReglaNegocioException.class
+com\gimnasio\rutinas\service\RutinaService.class
+com\gimnasio\rutinas\dto\RutinaDTO.class
+com\gimnasio\rutinas\exception\GlobalExceptionHandler.class
+com\gimnasio\rutinas\model\Rutina.class
+com\gimnasio\rutinas\model\Ejercicio.class

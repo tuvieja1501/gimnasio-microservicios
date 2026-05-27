@@ -1,0 +1,13 @@
+com\gimnasio\clases\exception\GlobalExceptionHandler.class
+com\gimnasio\clases\client\InstructorClient.class
+com\gimnasio\clases\dto\ClaseDTO.class
+com\gimnasio\clases\dto\InstructorRespuesta.class
+com\gimnasio\clases\exception\RecursoNoEncontradoException.class
+com\gimnasio\clases\model\Clase.class
+com\gimnasio\clases\ClasesApplication.class
+com\gimnasio\clases\repository\ClaseRepository.class
+com\gimnasio\clases\dto\SucursalRespuesta.class
+com\gimnasio\clases\client\SucursalClient.class
+com\gimnasio\clases\controller\ClaseController.class
+com\gimnasio\clases\exception\ReglaNegocioException.class
+com\gimnasio\clases\service\ClaseService.class

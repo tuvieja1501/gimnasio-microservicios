@@ -1,0 +1,16 @@
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\exception\RecursoNoEncontradoException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\dto\ReservaDTO.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\exception\GlobalExceptionHandler.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\model\Reserva.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\controller\ReservaController.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\exception\ReglaNegocioException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\client\ClaseClient.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\repository\ReservaRepository.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\client\MembresiaClient.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\dto\SocioRespuesta.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\ReservasApplication.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\service\ReservaService.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\model\EstadoReserva.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\client\SocioClient.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\dto\ClaseRespuesta.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-reservas\src\main\java\com\gimnasio\reservas\dto\MembresiaVigenteRespuesta.java

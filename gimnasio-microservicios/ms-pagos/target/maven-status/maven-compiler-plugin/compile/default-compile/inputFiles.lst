@@ -1,0 +1,13 @@
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\dto\PagoDTO.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\exception\GlobalExceptionHandler.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\repository\PagoRepository.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\model\MetodoPago.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\dto\SocioRespuesta.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\service\PagoService.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\exception\ReglaNegocioException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\model\EstadoPago.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\controller\PagoController.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\PagosApplication.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\exception\RecursoNoEncontradoException.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\model\Pago.java
+C:\workspace\gimnasio-microservicios\gimnasio-microservicios\ms-pagos\src\main\java\com\gimnasio\pagos\client\SocioClient.java

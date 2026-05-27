@@ -1,0 +1,12 @@
+com\gimnasio\equipos\model\Equipo.class
+com\gimnasio\equipos\EquiposApplication.class
+com\gimnasio\equipos\controller\EquipoController.class
+com\gimnasio\equipos\repository\EquipoRepository.class
+com\gimnasio\equipos\dto\EquipoDTO.class
+com\gimnasio\equipos\dto\SucursalRespuesta.class
+com\gimnasio\equipos\exception\ReglaNegocioException.class
+com\gimnasio\equipos\client\SucursalClient.class
+com\gimnasio\equipos\exception\RecursoNoEncontradoException.class
+com\gimnasio\equipos\exception\GlobalExceptionHandler.class
+com\gimnasio\equipos\service\EquipoService.class
+com\gimnasio\equipos\model\EstadoEquipo.class

@@ -1,0 +1,16 @@
+com\gimnasio\reservas\service\ReservaService.class
+com\gimnasio\reservas\client\SocioClient.class
+com\gimnasio\reservas\client\MembresiaClient.class
+com\gimnasio\reservas\dto\MembresiaVigenteRespuesta.class
+com\gimnasio\reservas\client\ClaseClient.class
+com\gimnasio\reservas\ReservasApplication.class
+com\gimnasio\reservas\model\Reserva.class
+com\gimnasio\reservas\dto\SocioRespuesta.class
+com\gimnasio\reservas\controller\ReservaController.class
+com\gimnasio\reservas\model\EstadoReserva.class
+com\gimnasio\reservas\dto\ReservaDTO.class
+com\gimnasio\reservas\dto\ClaseRespuesta.class
+com\gimnasio\reservas\repository\ReservaRepository.class
+com\gimnasio\reservas\exception\GlobalExceptionHandler.class
+com\gimnasio\reservas\exception\RecursoNoEncontradoException.class
+com\gimnasio\reservas\exception\ReglaNegocioException.class

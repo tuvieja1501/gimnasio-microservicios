@@ -1,0 +1,13 @@
+com\gimnasio\pagos\repository\PagoRepository.class
+com\gimnasio\pagos\model\EstadoPago.class
+com\gimnasio\pagos\dto\SocioRespuesta.class
+com\gimnasio\pagos\exception\ReglaNegocioException.class
+com\gimnasio\pagos\PagosApplication.class
+com\gimnasio\pagos\model\Pago.class
+com\gimnasio\pagos\client\SocioClient.class
+com\gimnasio\pagos\exception\RecursoNoEncontradoException.class
+com\gimnasio\pagos\dto\PagoDTO.class
+com\gimnasio\pagos\exception\GlobalExceptionHandler.class
+com\gimnasio\pagos\service\PagoService.class
+com\gimnasio\pagos\model\MetodoPago.class
+com\gimnasio\pagos\controller\PagoController.class

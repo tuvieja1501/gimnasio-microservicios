@@ -1,0 +1,9 @@
+com\gimnasio\instructores\exception\RecursoNoEncontradoException.class
+com\gimnasio\instructores\controller\InstructorController.class
+com\gimnasio\instructores\InstructoresApplication.class
+com\gimnasio\instructores\exception\GlobalExceptionHandler.class
+com\gimnasio\instructores\service\InstructorService.class
+com\gimnasio\instructores\dto\InstructorDTO.class
+com\gimnasio\instructores\model\Instructor.class
+com\gimnasio\instructores\repository\InstructorRepository.class
+com\gimnasio\instructores\exception\ReglaNegocioException.class

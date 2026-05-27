@@ -18,9 +18,8 @@ El sistema cubre desde el registro de socios y la gestión de membresías, hasta
 
 | Nombre | Apellido | Rol |
 |--------|----------|-----|
-| [Nombre 1] | [Apellido 1] | [Rol / microservicios a cargo] |
-| [Nombre 2] | [Apellido 2] | [Rol / microservicios a cargo] |
-| [Nombre 3] | [Apellido 3] | [Rol / microservicios a cargo] |
+| [MAICKEL] | [ROMERO] | [LIDER] |
+
 
 ---
 
